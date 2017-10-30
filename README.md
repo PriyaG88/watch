@@ -1,6 +1,7 @@
 # Watch
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A youtube clone created with guidance from Stephen Grider's Modern React with Redux course
+on Udemy.
 
 ### Getting Started
 
